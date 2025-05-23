@@ -34,7 +34,7 @@ Este proyecto consiste en la creación de un tablero interactivo desarrollado en
 - **Lenguaje DAX** para creación de medidas y columnas calculadas
 - **Interactividad mediante segmentadores** y filtros cruzados
 
-- - - ## ✅ Cómo visualizar el proyecto
+ - - ## ✅ Cómo visualizar el proyecto
 
 1. Descargá o cloná el repositorio.
 2. Abrí el archivo `analisis-inmobiliario.pbix` con Power BI Desktop.
